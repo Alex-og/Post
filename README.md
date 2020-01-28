@@ -1,5 +1,6 @@
 # Post
 Task from stepik.org
+
 It is necessary to describe a set of classes, each of which is a MailService:
 
 1) UntrustworthyMailWorker - a class that simulates an unreliable mail worker, which, instead of passing the mail object 
